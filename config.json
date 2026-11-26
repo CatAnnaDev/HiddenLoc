@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "fake": false,
+        "mapId": 1,
+        "guardId": 24,
+        "unk": 0,
+        "block": false
+    }
+}

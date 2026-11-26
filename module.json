@@ -1,0 +1,13 @@
+{
+    "name": "hidden-loc",
+    "author": "CatAnnaDev",
+    "description": "Hide or spoof the map section your client reports to the server.",
+    "disableAutoUpdate": true,
+    "options": {
+        "niceName": "Hidden Loc",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "config_migrator.js",
+        "reloadable": true
+    }
+}
